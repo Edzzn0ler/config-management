@@ -1,0 +1,40 @@
+
+ls
+
+cd second
+
+ls
+
+
+tail что_то_во_второй_папке.txt 3
+
+
+chmod что_то_во_второй_папке.txt r
+
+
+cd ~
+
+ls
+
+tail 123.txt 2
+
+
+chmod 123.txt rw
+
+
+cal
+
+
+cal 2024 12
+
+
+cd не_существует_1
+
+
+cd ~
+ls
+
+
+tail не_существует_2.txt 2
+
+tail первая_папка/1_папка.txt 5
