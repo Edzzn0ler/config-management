@@ -48,4 +48,4 @@ python main.py edz пример.zip log.xml --script start_script.txt
 ```
 Результат
 
-![image](https://github.com/user-attachments/assets/689b40fa-f9aa-454f-8de6-902c4003fdc7)
+![image](https://github.com/Edzzn0ler/config-management/blob/89fd52c8ac619721e02bf3cbea67757ea1217474/dz1/image.png)
