@@ -18,7 +18,7 @@
 Все функции визуализатора зависимостей должны быть покрыты тестами.
 _____________________________________________________________________________________________________________________________
 ## 1. Запуск программы
-````
+```
 python git_dep.py C:\Users\edz0r\PycharmProjects\Confandr\DZ2\config-management-main 2024-8-30 C:\Users\edz0r\PycharmProjects\Confandr\DZ2\out
 
 ```
@@ -42,4 +42,4 @@ python3 -m pytest test_git.py
 ```
 Результат
 
-![image](![image](https://github.com/user-attachments/assets/a65d76c7-69f4-4004-8b5f-0de6ae8f38fc))
+![image](https://github.com/user-attachments/assets/a65d76c7-69f4-4004-8b5f-0de6ae8f38fc)
