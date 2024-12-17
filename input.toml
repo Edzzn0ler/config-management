@@ -1,0 +1,5 @@
+const1 = 6
+const2 = "Hello World"
+result_addition = ".const1 + 10."
+result_abs = ".abs(-42)."
+nested = { key1 = ".const1 + 4.", key2 = ".abs(-7)." }
