@@ -1,0 +1,8 @@
+const const1 = 6;
+const const2 = 'Hello World';
+const result_addition = 16;
+const result_abs = 42;
+{
+    key1 : 10,
+    key2 : 7,
+}
